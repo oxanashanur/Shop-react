@@ -1,0 +1,26 @@
+body {
+  font-family: "Raleway", sans-serif;
+  margin: 0px;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.header a {
+  display: inline-block;
+  margin-right: 40px;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+}
+.header a svg {
+  width: 22px;
+  margin-right: 5px;
+  margin-bottom: -5px;
+}
